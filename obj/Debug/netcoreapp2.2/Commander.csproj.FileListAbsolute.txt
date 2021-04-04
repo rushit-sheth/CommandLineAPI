@@ -1,0 +1,4 @@
+D:\MyWebAPI\Commander\obj\Debug\netcoreapp2.2\Commander.csprojAssemblyReference.cache
+D:\MyWebAPI\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfoInputs.cache
+D:\MyWebAPI\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfo.cs
+D:\MyWebAPI\Commander\obj\Debug\netcoreapp2.2\Commander.csproj.CoreCompileInputs.cache
